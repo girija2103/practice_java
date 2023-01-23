@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9a7ce5b5-707e-466d-aa05-24ebc0250acb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/MaxElementArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/ReverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Swap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearch/AgnosticBSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearch/BSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearch/Ceiling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearch/FirstAndLastPosition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearch/FloorValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearch/InfiniteArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conditional_Loops/Assignment/AreaCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conditional_Loops/Assignment/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conditional_Loops/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conditional_Loops/CaseCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conditional_Loops/CountingSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conditional_Loops/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conditional_Loops/FruitSwitchCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conditional_Loops/Largest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conditional_Loops/NestedSwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conditional_Loops/Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conditional_Loops/WeekdayWeekend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinearSearch/EvenDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinearSearch/LSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinearSearch/MaxMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinearSearch/Search2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinearSearch/SearchInRanga.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinearSearch/StringSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinearSearch/WealthiestMan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic_java/Basics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic_java/Inputs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic_java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic_java/Primitive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic_java/TypeCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/first_java/Armstrong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/first_java/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/first_java/Greeting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/first_java/Largest_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/first_java/Odd_Eve.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/first_java/Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/first_java/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/first_java/Rupee_Dollar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/first_java/Simple_interest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods/AllArmstrong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods/Armstrong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods/ChangeValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods/Overloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods/Scope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods/Shadowing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods/StringExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods/Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods/Swap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods/VarArgs.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IofPomOXwfL55WavCmcPwFYS52" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a7ce5b5-707e-466d-aa05-24ebc0250acb" name="Changes" comment="" />
+      <created>1670852839072</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670852839072</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/basic_java/Inputs.java</url>
+          <line>5</line>
+          <properties class="basic_java.Inputs" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/basic_java/Basics.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/methods/AllArmstrong.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
